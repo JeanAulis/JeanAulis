@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🧑‍💻 A university student currently studying software engineering.
+🧑‍💻 A confused university student currently studying software engineering.
 
 💻 Currently only know some basic C, Java, Python, MySQL, and JavaScript.
 
